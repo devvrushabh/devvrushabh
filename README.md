@@ -1,11 +1,9 @@
 <!--
 **devvrushabh/devvrushabh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--> 
 
-<img src="https://raw.githubusercontent.com/Pinankh/pinankh/main/resources/my_profile.png" alt="Hero image">
-
 ### A dedicated technologist committed to creating innovative products. I love diving into the latest trends and building useful projects.
 
-### A passionate self-taught programmer from India :india: I'm constantly learning and shipping projects. Driven by a desire to innovate, I'm always seeking new challenges and opportunities to coll[...]
+### A passionate self-taught programmer from India :india: I'm constantly learning and shipping projects. Driven by a desire to innovate, I'm always seeking new challenges and opportunities to collaborate and build meaningful solutions.
 
 #### Here's a list of things I'm currently keeping myself busy with:
 - 🌱 Building impactful Desktop and Mobile applications to address local challenges and enhance people's lives.
@@ -23,7 +21,7 @@
 <code><img height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dart/dart-original.svg"/></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/objectivec/objectivec-plain.svg"/></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/xcode/xcode-original.svg"/></code>
-<code><img height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/androidstudio/androidstudio-original.svg"/></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/androidstudio/androidstudio-original.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jira/jira-original.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bitbucket/bitbucket-original.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg"></code>
