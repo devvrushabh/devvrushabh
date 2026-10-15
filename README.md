@@ -1,6 +1,8 @@
 <!--
 **devvrushabh/devvrushabh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--> 
 
+<img src="resources/my_profile.png" alt="Hero image">
+
 ### A dedicated technologist committed to creating innovative products. I love diving into the latest trends and building useful projects.
 
 ### A passionate self-taught programmer from India :india: I'm constantly learning and shipping projects. Driven by a desire to innovate, I'm always seeking new challenges and opportunities to collaborate and build meaningful solutions.
